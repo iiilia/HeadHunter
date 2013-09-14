@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LOL</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="nam">ФИО</string>
+    <string name="input">Поле для ответа</string>
+    <string name="BossButton">Отправить ответ</string>
+    <string name="dat">Введите дату рождения</string>
+    <string name="sex">Ваш пол</string>
+    <string name="rang">Должность, на которую Вы претендуете</string>
+    <string name="salary">Ожидаемая заработная плата</string>
+    <string name="phone">Ваш номер</string>
+    <string name="email">Ваш адрес электронной почты</string>
+    <string name="title_activity_second">SecondActivity</string>
+    
+    
+    <string-array name="Sex">
+    <item>Мужской</item>
+    <item>Женский</item>
+	</string-array>
+    <string name="setData">Установка даты</string>
+
+</resources>
